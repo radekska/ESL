@@ -1,0 +1,13 @@
+byteplay3==3.5.0
+certifi==2020.6.20
+future==0.18.2
+myhdl==0.11
+myhdlpeek==0.0.8
+nbwavedrom==0.2.0
+numpy==1.18.5
+pandas==0.25.3
+pygmyhdl==0.0.3
+python-dateutil==2.8.1
+pytz==2020.4
+six==1.15.0
+tabulate==0.8.7
