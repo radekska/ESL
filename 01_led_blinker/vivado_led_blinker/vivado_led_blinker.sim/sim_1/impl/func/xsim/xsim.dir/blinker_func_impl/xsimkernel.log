@@ -1,4 +1,0 @@
-Running: xsim.dir/blinker_func_impl/xsimk -simmode gui -wdb blinker_func_impl.wdb -simrunnum 0 -socket 46603
-Design successfully loaded
-Design Loading Memory Usage: 44272 KB (Peak: 44272 KB)
-Design Loading CPU Usage: 30 ms

@@ -1,3 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "/media/psf/Home/Documents/IV_Rok/ESL_tutorials/01_led_blinker/vivado_led_blinker/vivado_led_blinker.sim/sim_1/impl/func/xsim/blinker_func_impl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module blinker
-INFO: [VRFC 10-311] analyzing module glbl

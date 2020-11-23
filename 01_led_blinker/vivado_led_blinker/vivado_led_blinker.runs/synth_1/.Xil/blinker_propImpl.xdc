@@ -1,5 +1,0 @@
-set_property SRC_FILE_INFO {cfile:/media/psf/Home/Documents/IV_Rok/ESL_tutorials/01_led_blinker/vivado_led_blinker/vivado_led_blinker.srcs/constrs_1/new/pins.xdc rfile:../../../vivado_led_blinker.srcs/constrs_1/new/pins.xdc id:1} [current_design]
-set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN C17 [get_ports clk_i]
-set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN A17 [get_ports led_o]
