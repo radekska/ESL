@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:35 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Nov 24 23:17:05 2020
+# Process ID: 32519
+# Current directory: /media/psf/Home/Documents/IV_Rok/ESL_tutorials/t04_ram_party/vivado_ram_party/vivado_ram_party.runs/synth_1
+# Command line: vivado -log record_play.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source record_play.tcl
+# Log file: /media/psf/Home/Documents/IV_Rok/ESL_tutorials/t04_ram_party/vivado_ram_party/vivado_ram_party.runs/synth_1/record_play.vds
+# Journal file: /media/psf/Home/Documents/IV_Rok/ESL_tutorials/t04_ram_party/vivado_ram_party/vivado_ram_party.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source record_play.tcl -notrace

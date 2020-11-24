@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1606256428">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="RDI-RDI" Name="record_play.vdi"/>
+  <File Type="BG-DRC" Name="record_play.drc"/>
+  <File Type="BG-BGN" Name="record_play.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="record_play.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="record_play.ltx"/>
+  <File Type="RBD_FILE" Name="record_play.rbd"/>
+  <File Type="NPI_FILE" Name="record_play.npi"/>
+  <File Type="RNPI_FILE" Name="record_play.rnpi"/>
+  <File Type="CFI_FILE" Name="record_play.cfi"/>
+  <File Type="RCFI_FILE" Name="record_play.rcfi"/>
+  <File Type="PDI-FILE" Name="record_play.pdi"/>
+  <File Type="BITSTR-MMI" Name="record_play.mmi"/>
+  <File Type="BITSTR-BMM" Name="record_play_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="record_play.nky"/>
+  <File Type="BITSTR-RBT" Name="record_play.rbt"/>
+  <File Type="BITSTR-MSK" Name="record_play.msk"/>
+  <File Type="BG-BIN" Name="record_play.bin"/>
+  <File Type="BG-BIT" Name="record_play.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="record_play_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="record_play_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="record_play_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="record_play_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="record_play_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="record_play_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="record_play_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="record_play_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="record_play_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="record_play_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="record_play_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="record_play_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="record_play_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="record_play_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="record_play_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="record_play_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="record_play_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="record_play_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="record_play_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="record_play_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="record_play_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="record_play_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="record_play_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="record_play_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="record_play_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="record_play_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="record_play_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="record_play_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="record_play_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="record_play_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="record_play_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="record_play_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="record_play_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="record_play_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="record_play_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="record_play_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="record_play_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="record_play_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="record_play_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="record_play_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="record_play_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="record_play_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="record_play_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="record_play_placed.dcp"/>
+  <File Type="PWROPT-DRC" Name="record_play_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="record_play_pwropt.dcp"/>
+  <File Type="OPT-HWDEF" Name="record_play.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="record_play_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="record_play_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="record_play_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="record_play_timing_summary_init.rpt"/>
+  <File Type="PWROPT-TIMING" Name="record_play_timing_summary_pwropted.rpt"/>
+  <File Type="REPORTS-TCL" Name="record_play_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="record_play_timing_summary_opted.rpt"/>
+  <File Type="PA-TCL" Name="record_play.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../record_play.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="record_play"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/pins.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/pins.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
